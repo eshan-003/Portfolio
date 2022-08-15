@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-           Hi I am Eshan Chakraborty, I a currently a student of Jadavpur University currently pursuing Btech undergraduate degree in Computer Science. I love working on web technologies like React Js ,Node Js ,Tailwind Css,Mongo Db and building scalable applications having real-world applications
+           Hi I am Eshan Chakraborty, I am currently a student of Jadavpur University pursuing Btech undergraduate degree in Computer Science. I love working on web technologies like React Js ,Node Js ,Tailwind Css,Mongo Db and building scalable applications having real-world use.
           </p>
 
           <div>
