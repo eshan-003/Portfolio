@@ -1,7 +1,6 @@
 import React from "react";
 import MoviesApp from "../assets/portfolio/moviesApp.png";
-import ChatApp from "../assets/portfolio/ChatApp.png";
-import MealsApp from "../assets/portfolio/MealsApp.png";
+import ChatApp from "../assets/portfolio/Talkify.png";
 
 
 const Portfolio = () => {
@@ -9,24 +8,18 @@ const Portfolio = () => {
     {
       id: 1,
       src: MoviesApp,
-      title:"Movies App",
+      title:"Entertainment Hub",
       code:"https://github.com/eshan-003/moviesApp",
-      demo:"https://movies003-app.herokuapp.com/",
+      demo:"https://www.youtube.com/watch?v=qyRmCabo7Uw",
     },
     {
       id: 2,
       src: ChatApp,
-      title:"Chat App",
-      code:"https://github.com/eshan-003/chatApp",
-      demo:"https://chatapp-fa4b1.web.app/",
+      title:"Talk-A-Tive",
+      code:"https://github.com/eshan-003/Talkify",
+      demo:"https://www.youtube.com/watch?v=5yQF-XUKKuA",
     },
-    {
-      id: 3,
-      src: MealsApp,
-      title:"Meals App",
-      code:"https://github.com/eshan-003/FoodOrder",
-      demo:"https://eshan-003.github.io/FoodOrder/",
-    },
+    
     
   ];
 

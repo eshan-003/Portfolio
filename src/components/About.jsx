@@ -14,23 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        My name is Eshan Chakraborty and I am currently learning full-stack web development and focus on creating dynamic and beautiful web pages with a vibrant frontend and a scalable backend using MERN stack(Mongo Db, Express JS, React JS, Node JS). 
+       <br/>
+        Also I have been recently exploring the field of machine learning and deep learning . Building small yet useful machine learning models have been absolutely enjoyable. The ability of a computer to predict the results based on previous learnings is fascinating and am looking forward to explore more in this world of AI.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        I am currently studying software engineering from one of the renowned universities of India Jadavpur University , and have been loving every minute of it. I am a developer, engineer and overall thinker. 
+
+Check out some of the links below to see what I’ve been up to lately.
         </p>
       </div>
     </div>
