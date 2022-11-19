@@ -15,8 +15,9 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-           Hi I am Eshan Chakraborty, I am currently a student of Jadavpur University currently pursuing Btech undergraduate degree in Computer Science. I love working on web technologies like React Js ,Node Js ,Tailwind Css,Mongo Db and building scalable applications having real-world use cases.
-          </p>      
+           Hi I am Eshan Chakraborty, I a currently a student of Jadavpur University currently pursuing Btech undergraduate degree in Computer Science. I love working on web technologies like React Js ,Node Js ,Tailwind Css,Mongo Db and building scalable applications having real-world applications
+          </p>
+
           <div>
             <Link
               to="portfolio"
@@ -36,7 +37,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="mb-20 rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
       </div>
