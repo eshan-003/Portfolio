@@ -1,6 +1,6 @@
 import React from "react";
 import MoviesApp from "../assets/portfolio/moviesApp.png";
-import ChatApp from "../assets/portfolio/Talkify.png";
+import ChatApp from "../assets/portfolio/Talk-A-Tive.png";
 import Dappazon from "../assets/portfolio/dappazon.png";
 import Music from "../assets/portfolio/music-nft.png";
 
@@ -10,8 +10,8 @@ const Portfolio = () => {
       id: 1,
       src: ChatApp,
       title:"Talk-A-Tive",
-      code:"https://github.com/eshan-003/Talkify",
-      demo:"https://www.youtube.com/watch?v=5yQF-XUKKuA",
+      code:"https://github.com/eshan-003/Talk-A-Tive",
+      demo:"https://www.youtube.com/watch?v=i9QBxSHA-c8",
     },{
       id: 2,
       src: Music,
