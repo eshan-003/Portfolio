@@ -1,6 +1,7 @@
 import React from "react";
 import MoviesApp from "../assets/portfolio/moviesApp.png";
 import ChatApp from "../assets/portfolio/Talk-A-Tive.png";
+import SimpleChatApp from "../assets/portfolio/simple-chat-app.png"
 import Dappazon from "../assets/portfolio/dappazon.png";
 import Music from "../assets/portfolio/music-nft.png";
 
@@ -8,10 +9,10 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: ChatApp,
-      title:"Talk-A-Tive",
-      code:"https://github.com/eshan-003/Talk-A-Tive",
-      demo:"https://www.youtube.com/watch?v=i9QBxSHA-c8",
+      src: SimpleChatApp,
+      title:"Live Chat",
+      code:"https://github.com/eshan-003/Live-Chat",
+      demo:"https://www.youtube.com/watch?v=MJmk0WF3hTE",
     },{
       id: 2,
       src: Music,
@@ -27,10 +28,10 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: MoviesApp,
-      title:"Entertainment Hub",
-      code:"https://github.com/eshan-003/moviesApp",
-      demo:"https://www.youtube.com/watch?v=qyRmCabo7Uw",
+      src: ChatApp,
+      title:"Talk-A-Tive",
+      code:"https://github.com/eshan-003/Talk-A-Tive",
+      demo:"https://www.youtube.com/watch?v=i9QBxSHA-c8",
     },
     
     
